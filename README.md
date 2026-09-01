@@ -1,5 +1,7 @@
 # resilient-poller
 
+[![check](https://github.com/LUCA-MAURI/resilient-poller/actions/workflows/check.yml/badge.svg)](https://github.com/LUCA-MAURI/resilient-poller/actions/workflows/check.yml)
+
 **Two things a service needs when it depends on third parties that break:
 a circuit breaker so a dead upstream cannot slow you down, and structured logs
 so a failure leaves evidence.**
